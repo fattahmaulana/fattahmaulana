@@ -14,19 +14,19 @@
 
   <br /><br />
 
-  <p align="left">
-  <a href="https://www.linkedin.com/in/maulanaabdulfattah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/maulanaabdulfattah" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
-  <a href="https://www.behance.net/fattahmaulana">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  <a href="https://www.behance.net/fattahmaulana" target="_blank">
+    <img src="https://img.shields.io/badge/behance-%23000000.svg?style=for-the-badge&logo=behance&logoColor=39FF14" alt="Behance"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/fattahmaulana_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/fattahmaulana_" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram"/>
   </a>
 </p>
   
