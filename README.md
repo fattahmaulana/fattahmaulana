@@ -16,7 +16,7 @@
 
   <p align="center">
   <a href="https://www.linkedin.com/in/maulanaabdulfattah" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin-in&logoColor=39FF14" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
 
@@ -36,7 +36,7 @@
 ---
 
 <!-- ================= ABOUT ================= -->
-## ⚡ About Me
+## About Me
 
 I am a **Creative Developer** with a background in **Graphic Design**, focused on creating digital experiences that are clear, structured, and visually intentional.  
 My work emphasizes the integration of **design thinking** and **technical execution**, ensuring that every product communicates effectively while maintaining functional reliability.
@@ -46,7 +46,7 @@ I value clarity, consistency, and purpose in both design and development, with s
 ---
 
 <!-- ================= TOOLBOX ================= -->
-## 🛠 Toolbox
+## Toolbox
 
 **Design**
 <br />
@@ -59,7 +59,7 @@ I value clarity, consistency, and purpose in both design and development, with s
 ---
 
 <!-- ================= STATS ================= -->
-## 📊 Weekly Stats
+## Weekly Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahmaulana&theme=transparent&hide_border=true&ring=00FF88&currStreakLabel=00FF88" width="100%" />
 
@@ -70,14 +70,14 @@ I value clarity, consistency, and purpose in both design and development, with s
 ---
 
 <!-- ================= LANGUAGES ================= -->
-## 💻 Most Used Languages
+## Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahmaulana&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=9f9f9f&langs_count=6" width="100%" />
 
 ---
 
 <!-- ================= CONTRIBUTION ================= -->
-## 🧩 Contribution Graph
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/github-contribution-grid-snake-dark.svg" />
