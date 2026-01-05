@@ -12,8 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Creative+Development;Visual+Thinking+%26+Problem+Solving;Minimal.+Clear.+Purposeful." />
   </a>
 
-  <br /><br />
-
+  <br />
   <p align="center">
   <a href="https://www.linkedin.com/in/maulanaabdulfattah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
