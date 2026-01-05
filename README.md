@@ -51,11 +51,20 @@ I value clarity, consistency, and purpose in both design and development, with s
 
 **Design**
 <br />
-<img src="https://skillicons.dev/icons?i=figma,ps,xd" />
+<img src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/Photoshop-%23000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/XD-%23000000.svg?style=for-the-badge&logo=adobexd&logoColor=%2339FF14" />
+
 
 **Development**
 <br />
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" />
+<img src="https://img.shields.io/badge/HTML-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/Tailwind-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2339FF14" />
+<img src="https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=%2339FF14" />
+
 
 ---
 
