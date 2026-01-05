@@ -1,18 +1,13 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/Hp4lpqr502X5Z8t5Y4/giphy.gif" width="100%" height="20" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Wake+up%2C+Fattah...;Follow+the+white+rabbit...;Welcome+to+the+Matrix.;Senior+Frontend+Developer+%26+Designer." alt="Typing SVG" />
-  </a>
-
-  <br/>
-  <img src="https://github.com/hieudinh123/hieudinh123/blob/master/assets/line_green.gif?raw=true" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=FATTAH%20MAULANA&fontSize=70&fontColor=00FF00&fontAlignY=55&animation=fadeIn" alt="Fattah Maulana 3D Header" width="100%" />
 
 </div>
 
 <div align="center">
   
+  <br/>
+
   ### `> system_status: ONLINE`
   
   <p align="center">
@@ -24,6 +19,7 @@
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -51,6 +47,7 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <h3><code>> execute_diagnostics</code></h3>
@@ -74,7 +71,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/hieudinh123/hieudinh123/blob/master/assets/line_green.gif?raw=true" width="100%">
   
   <h3><code>> establish_comm_link</code></h3>
 
