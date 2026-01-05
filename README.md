@@ -16,7 +16,7 @@
 
   <p align="center">
   <a href="https://www.linkedin.com/in/maulanaabdulfattah" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin-in&logoColor=39FF14" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=%2339FF14" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
 
