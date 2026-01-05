@@ -20,8 +20,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.behance.net/fattahmaulana">
-    <img src="https://skillicons.dev/icons?i=behance" height="28" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="28" />
+</a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/fattahmaulana_">
     <img src="https://skillicons.dev/icons?i=instagram" height="28" />
