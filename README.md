@@ -16,8 +16,14 @@
 
   <p align="center">
   <a href="https://www.linkedin.com/in/maulanaabdulfattah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=%2339FF14" alt="LinkedIn"/>
-  </a>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+    width="32"
+    style="filter: invert(72%) sepia(95%) saturate(367%) hue-rotate(90deg);"
+    alt="LinkedIn"
+  />
+</a>
+
   &nbsp;&nbsp;
 
   <a href="https://www.behance.net/fattahmaulana" target="_blank">
