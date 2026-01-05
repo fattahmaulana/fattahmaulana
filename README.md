@@ -15,26 +15,34 @@
   <br /><br />
 
   <!-- SIMPLE SOCIAL ICONS -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/maulanaabdulfattah">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" style="filter: invert(0);"/>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/linkedin.svg">
+      <!-- Light mode -->
+      <img src="https://simpleicons.org/icons/linkedin.svg" height="28" />
     </picture>
   </a>
   &nbsp;&nbsp;
+
+  <!-- Behance -->
   <a href="https://www.behance.net/fattahmaulana">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="28" style="filter: invert(0);"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/behance.svg">
+      <img src="https://simpleicons.org/icons/behance.svg" height="28" />
     </picture>
   </a>
   &nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/fattahmaulana_">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="28" style="filter: invert(0);"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/instagram.svg">
+      <img src="https://simpleicons.org/icons/instagram.svg" height="28" />
     </picture>
   </a>
+  
 
 </div>
 
