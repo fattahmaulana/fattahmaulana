@@ -13,19 +13,20 @@
   </a>
 
   <br />
+
   <p align="center">
   <a href="https://www.linkedin.com/in/maulanaabdulfattah" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/39FF14" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.behance.net/fattahmaulana" target="_blank">
-    <img src="https://cdn.simpleicons.org/behance/39FF14" height="40" alt="Behance" />
+    <img src="https://img.shields.io/badge/behance-%23000000.svg?style=for-the-badge&logo=behance&logoColor=39FF14" alt="Behance"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.instagram.com/fattahmaulana_" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/39FF14" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram"/>
   </a>
 </p>
   
