@@ -37,44 +37,31 @@
   <tr border="0">
     <td width="50%" valign="top" border="0">
       ### 👨‍💻 About Me
-      
       I bridge the gap between engineering and design. As a **Creative Developer**, I don't just write code; I build interactive and visually appealing digital experiences.
-
       * 🔭 Currently working on interesting web projects.
       * 🎨 Passionate about **UI/UX Design** translating into clean code.
       * 🌱 Learning advanced Front-End patterns.
       * ⚡ **Fun fact:** I can center a `div` in my sleep.
-
       <br/>
-
       ### 🛠️ Tech & Design Stack
-      
       **Design Tools**<br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />
-
       <br/>
-
       **Development**<br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-
     </td>
-
     <td width="50%" valign="top" border="0" align="center">
-      
       ### 📊 GitHub Activity
-
       <a href="https://github.com/fattahmaulana">
         <img src="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" width="100%"/>
       </a>
-
       <br/>
-
       <img src="https://github-readme-stats.vercel.app/api?username=fattahmaulana&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
