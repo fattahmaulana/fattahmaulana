@@ -14,34 +14,21 @@
 
   <br /><br />
 
-  <!-- SIMPLE SOCIAL ICONS -->
-  <!-- LinkedIn -->
+  <p align="left">
   <a href="https://www.linkedin.com/in/maulanaabdulfattah">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/linkedin.svg">
-      <!-- Light mode -->
-      <img src="https://simpleicons.org/icons/linkedin.svg" height="28" />
-    </picture>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <!-- Behance -->
   <a href="https://www.behance.net/fattahmaulana">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/behance.svg">
-      <img src="https://simpleicons.org/icons/behance.svg" height="28" />
-    </picture>
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/fattahmaulana_">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/instagram.svg">
-      <img src="https://simpleicons.org/icons/instagram.svg" height="28" />
-    </picture>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+</p>
   
 
 </div>
