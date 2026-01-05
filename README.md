@@ -71,28 +71,28 @@ I value clarity, consistency, and purpose in both design and development, with s
 <!-- ================= STATS ================= -->
 ## Weekly Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fattahmaulana&theme=transparent&hide_border=true&ring=00FF88&currStreakLabel=00FF88" width="100%" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=fattahmaulana&theme=transparent&hide_border=true&ring=39FF14&currStreakLabel=39FF14"
+  width="100%" 
+/>
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fattahmaulana&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=9f9f9f" width="100%" />
-
----
-
-<!-- ================= LANGUAGES ================= -->
-## Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahmaulana&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=9f9f9f&langs_count=6" width="100%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=fattahmaulana&theme=transparent&hide_border=true&title_color=39FF14&text_color=9f9f9f"
+  width="100%" 
+/>
 
 ---
 
 <!-- ================= CONTRIBUTION ================= -->
 ## Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/github-contribution-grid-snake.svg" />
-</picture>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=fattahmaulana&bg_color=00000000&color=39FF14&line=39FF14&point=39FF14&hide_border=true"
+  width="100%" 
+/>
+
 
 ---
 
