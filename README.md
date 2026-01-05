@@ -16,16 +16,24 @@
 
   <!-- SIMPLE SOCIAL ICONS -->
   <a href="https://www.linkedin.com/in/maulanaabdulfattah">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" style="filter: invert(0);"/>
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.behance.net/fattahmaulana">
-  <img src="https://simpleicons.org/icons/behance.svg" height="26" />
-</a>
-
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="28" style="filter: invert(0);"/>
+    </picture>
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/fattahmaulana_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="28" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="28" style="filter: invert(0);"/>
+    </picture>
   </a>
 
 </div>
