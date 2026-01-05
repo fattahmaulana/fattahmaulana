@@ -1,76 +1,97 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"/>
-  <br/>
-  
+
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> 
+    Hi there, I'm Maulana Abdul Fattah!
+  </h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Halo,+Saya+Fattah+Maulana!;Creative+Developer+%26+Designer;Ngoding+sambil+Ngopi;Behance+x+GitHub+Enjoyer;Bug+Hunter+Pro+Max" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Creative+Developer+%26+UI%2FUX+Enthusiast;Crafting+Code+and+Pixel-Perfect+Designs;Based+in+Indonesia" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <p>
+    <a href="https://www.linkedin.com/in/maulanaabdulfattah">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+    </a>
+    &nbsp;
+    <a href="https://www.behance.net/fattahmaulana">
+      <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="25"/>
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/fattahmaulana_">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+    </a>
+    &nbsp;
+    <a href="mailto:EMAIL_ANDA_JIKA_ADA@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+    </a>
+  </p>
+
 </div>
 
-<br/>
+<hr/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="800px">
-</div>
+<table border="0" width="100%">
+  <tr border="0">
+    <td width="50%" valign="top" border="0">
+      ### 👨‍💻 About Me
+      
+      I bridge the gap between engineering and design. As a **Creative Developer**, I don't just write code; I build interactive and visually appealing digital experiences.
 
-<table align="center" width="800px" style="border: none;">
-  <tr>
-    <td style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 0 0 10px 10px;">
-      <p>
-        <span style="color: #79c0ff;">fattah@macbook</span>:<span style="color: #d2a8ff;">~</span>$ whoami <br/>
-        > <b>Maulana Abdul Fattah</b> <br/>
-        > <i>"Mengubah Kopi Menjadi Kode & Desain Pixel Perfect"</i>
-      </p>
+      * 🔭 Currently working on interesting web projects.
+      * 🎨 Passionate about **UI/UX Design** translating into clean code.
+      * 🌱 Learning advanced Front-End patterns.
+      * ⚡ **Fun fact:** I can center a `div` in my sleep.
+
       <br/>
-      <p>
-        <span style="color: #79c0ff;">fattah@macbook</span>:<span style="color: #d2a8ff;">~</span>$ cat contact_info.json <br/>
-        {<br/>
-        &nbsp;&nbsp;"github": <a href="https://github.com/fattahmaulana">"github.com/fattahmaulana"</a>,<br/>
-        &nbsp;&nbsp;"linkedin": <a href="https://www.linkedin.com/in/maulanaabdulfattah">"in/maulanaabdulfattah"</a>,<br/>
-        &nbsp;&nbsp;"behance": <a href="https://www.behance.net/fattahmaulana">"be.net/fattahmaulana"</a>,<br/>
-        &nbsp;&nbsp;"instagram": <a href="https://www.instagram.com/fattahmaulana_">"@fattahmaulana_"</a><br/>
-        }
-      </p>
+
+      ### 🛠️ Tech & Design Stack
+      
+      **Design Tools**<br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />
+
       <br/>
-      <p>
-        <span style="color: #79c0ff;">fattah@macbook</span>:<span style="color: #d2a8ff;">~</span>$ ./connect_socials.sh <br/>
-        > Connecting to network... Success! <br/>
-      </p>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/maulanaabdulfattah">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://www.behance.net/fattahmaulana">
-          <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
-        </a>
-        <a href="https://www.instagram.com/fattahmaulana_">
-          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </p>
+
+      **Development**<br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+    </td>
+
+    <td width="50%" valign="top" border="0" align="center">
+      
+      ### 📊 GitHub Activity
+
+      <a href="https://github.com/fattahmaulana">
+        <img src="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" width="100%"/>
+      </a>
+
       <br/>
-      <p>
-        <span style="color: #79c0ff;">fattah@macbook</span>:<span style="color: #d2a8ff;">~</span>$ ls ./toolbox/ <br/>
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      </p>
-      <br/>
-      <p>
-        <span style="color: #79c0ff;">fattah@macbook</span>:<span style="color: #d2a8ff;">~</span>$ git status --short
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=fattahmaulana&show_icons=true&theme=omni&bg_color=0d1117&hide_border=true&count_private=true" width="48%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahmaulana&layout=compact&theme=omni&bg_color=0d1117&hide_border=true" width="48%" />
-      </p>
+
+      <img src="https://github-readme-stats.vercel.app/api?username=fattahmaulana&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
-  <small>System ready. Waiting for input...</small>
+  <h3>🧩 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fattahmaulana/fattahmaulana/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<hr/>
+
+<div align="center">
+  <small>Thanks for visiting! Let's connect and create something awesome.</small>
 </div>
